@@ -1,0 +1,7 @@
+{
+    "갤러리":[
+        {"글번호":1,"이미지":"./images/gallery1.jpg","이미지설명":"gallery1"},
+        {"글번호":2,"이미지":"./images/gallery2.jpg","이미지설명":"gallery2"},
+        {"글번호":3,"이미지":"./images/gallery3.jpg","이미지설명":"gallery3"}       
+    ]
+}
